@@ -1,2 +1,4 @@
-# PCD_UTS_202031197_2024_ITPLN
-UTS PENGOLAHAN CITRA
+**Laporan**
+- Hasil Analsis pada pendeteksian warna yang dilakukan pada citra gambar adalah dimana pada citra kontras,warna pada gambar tetap sama,untuk citra Biru warna pada gambar yang memiliki Biru akan memudar atau berubah menjadi abu-abu,begitu pula untuk Citra Merah,dan Hijau dimana warna yang dideteksi pada gambar akan berubah menjadi abu-abu atau memudar sesuai yang di deteksikan,
+- Dari analisis yang saya lakukan, saya berhasil menentukan nilai ambang batas yang optimal untuk segmentasi warna pada gambar ini. Nilai ambang batas sebesar 255 untuk saluran warna biru ,hijau,dan merah dipilih berdasarkan distribusi intensitas warna yang teramati dalam histogram. Penggunaan nilai ambang batas yang tepat sangat penting untuk mencapai segmentasi warna yang akurat dalam pengolahan gambar.
+- 
